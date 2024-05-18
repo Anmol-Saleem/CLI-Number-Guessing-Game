@@ -1,0 +1,26 @@
+{
+  "name": "@anmol_saleem/cli-number-guessing-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  
+  "dependencies": {
+    "@anmol_saleem/cli-number-guessing-game": "^1.0.0",
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "-": "^0.0.1",
+    "@types/inquirer": "^9.0.7"
+  }
+}
+
