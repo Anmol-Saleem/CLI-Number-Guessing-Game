@@ -17,5 +17,5 @@ if (answer.userGuessedNumber == random_number) {
     console.log(" Congratulations! You have guessed a right number ");
 }
 else {
-    console.log(" Sorry,  wrong number ");
+    console.log(" Sorry, you have guessed wrong number ");
 }

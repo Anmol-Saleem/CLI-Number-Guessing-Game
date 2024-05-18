@@ -21,6 +21,6 @@ if(answer.userGuessedNumber==random_number){
 }
 else
 {
-    console.log(" Sorry,  wrong number ")
+    console.log(" Sorry, you have guessed wrong number ")
 
 }
