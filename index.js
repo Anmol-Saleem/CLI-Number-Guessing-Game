@@ -14,7 +14,7 @@ const answer = await inquirer.prompt([
 ]);
 // for comparing 
 if (answer.userGuessedNumber == random_number) {
-    console.log(" Great! You have guessed a right number ");
+    console.log(" Congratulations! You have guessed a right number ");
 }
 else {
     console.log(" Sorry,  wrong number ");
